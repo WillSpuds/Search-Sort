@@ -1,0 +1,57 @@
+C:\Users\willi\Desktop\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.exe
+C:\Users\willi\Desktop\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.deps.json
+C:\Users\willi\Desktop\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.runtimeconfig.json
+C:\Users\willi\Desktop\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.runtimeconfig.dev.json
+C:\Users\willi\Desktop\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.dll
+C:\Users\willi\Desktop\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.pdb
+C:\Users\willi\Desktop\AandCAssignment1\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\AandCAssignment1\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\AandCAssignment1\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.AssemblyInfo.cs
+C:\Users\willi\Desktop\AandCAssignment1\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.dll
+C:\Users\willi\Desktop\AandCAssignment1\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.pdb
+C:\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.exe
+C:\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.deps.json
+C:\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.runtimeconfig.json
+C:\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.runtimeconfig.dev.json
+C:\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.dll
+C:\AandCAssignment1\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.pdb
+C:\AandCAssignment1\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.csprojAssemblyReference.cache
+C:\AandCAssignment1\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.AssemblyInfoInputs.cache
+C:\AandCAssignment1\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.AssemblyInfo.cs
+C:\AandCAssignment1\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.dll
+C:\AandCAssignment1\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.pdb
+C:\Projects\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.exe
+C:\Projects\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.deps.json
+C:\Projects\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.runtimeconfig.json
+C:\Projects\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.runtimeconfig.dev.json
+C:\Projects\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.dll
+C:\Projects\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.pdb
+C:\Projects\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.csprojAssemblyReference.cache
+C:\Projects\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.AssemblyInfoInputs.cache
+C:\Projects\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.AssemblyInfo.cs
+C:\Projects\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.dll
+C:\Projects\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.pdb
+C:\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.exe
+C:\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.deps.json
+C:\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.runtimeconfig.json
+C:\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.runtimeconfig.dev.json
+C:\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.dll
+C:\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.pdb
+C:\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.csprojAssemblyReference.cache
+C:\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.AssemblyInfoInputs.cache
+C:\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.AssemblyInfo.cs
+C:\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.dll
+C:\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.pdb
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.exe
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.deps.json
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.runtimeconfig.json
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.runtimeconfig.dev.json
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.dll
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\bin\Debug\netcoreapp3.1\AandCAssignment1.pdb
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.csprojAssemblyReference.cache
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.dll
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.pdb
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\AdnC\Assessment 1 - Source Code\AandCAssignment1\obj\Debug\netcoreapp3.1\AandCAssignment1.genruntimeconfig.cache
